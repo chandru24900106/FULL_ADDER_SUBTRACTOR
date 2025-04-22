@@ -1,6 +1,6 @@
 # Name : chandru v
 # reg no : 212224230043
-# exp 3
+# exp 4
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
@@ -43,7 +43,11 @@ Borrow out = A'Bin + A'B + BBin
 
 **full adder**
 
+![WhatsApp Image 2025-04-22 at 21 54 06_bd25fa93](https://github.com/user-attachments/assets/b793b19d-7f46-4130-9c95-a9d6158c8ee7)
+
 **full subractor**
+
+![WhatsApp Image 2025-04-22 at 21 55 21_f700f028](https://github.com/user-attachments/assets/06ded534-36ba-4681-9d9c-aa9341c1da3e)
 
 **Procedure**
 
@@ -53,20 +57,32 @@ Write the detailed procedure here
 
 **full adder**
 
+![image](https://github.com/user-attachments/assets/56dd238d-e638-45f9-825f-697fd2cb30b8)
+
 **full subractor**
+
+![image](https://github.com/user-attachments/assets/b86a0d22-6bb8-41a3-bc20-f9833eea7368)
 
 **RTL Schematic**
 
 **full adder**
 
+![WhatsApp Image 2025-04-22 at 21 45 03_8f229122](https://github.com/user-attachments/assets/e8b08da0-cf3f-4d9a-a6d5-f269beb0af12)
+
+
 **full subractor**
+
+![WhatsApp Image 2025-04-22 at 21 45 43_ca399260](https://github.com/user-attachments/assets/4d8280b0-3928-4666-a2ad-0e73fcb45888)
 
 **Output Timing Waveform**
 
 **full adder**
 
+![WhatsApp Image 2025-04-22 at 21 48 54_8898bc05](https://github.com/user-attachments/assets/f77ebd2d-fc3a-4c1a-bfc6-193f9627cbb2)
+
 **full subractor**
 
+![WhatsApp Image 2025-04-22 at 21 49 21_8ce48182](https://github.com/user-attachments/assets/ffc563c6-1509-45a1-bedc-74ae42f51a9b)
 
 **Result:**
 
