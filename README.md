@@ -1,3 +1,6 @@
+# Name : chandru v
+# reg no : 212224230043
+# exp 3
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
@@ -38,22 +41,33 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+**full adder**
+
+**full subractor**
+
 **Procedure**
 
 Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+**full adder**
+
+**full subractor**
 
 **RTL Schematic**
 
+**full adder**
+
+**full subractor**
+
 **Output Timing Waveform**
+
+**full adder**
+
+**full subractor**
+
 
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
-
-
-
