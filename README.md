@@ -1,6 +1,6 @@
 # Name : chandru v
 # reg no : 212224230043
-# exp 4
+# exp 3
 # FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
